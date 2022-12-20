@@ -1,0 +1,7 @@
+#.
+nginx.conf.bak
+local/
+log/
+#sslcert/
+key.pem 
+#laravel/
